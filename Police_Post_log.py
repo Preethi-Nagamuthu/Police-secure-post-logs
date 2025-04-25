@@ -2,7 +2,6 @@ import streamlit as st
 import sqlite3
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
 import plotly.express as px
 
 data = pd.read_csv("c:/Users/nagam/Downloads/vehicle_logs.csv")
